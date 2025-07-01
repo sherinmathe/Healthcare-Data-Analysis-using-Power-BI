@@ -10,9 +10,7 @@ Table of Contents
 
 Key Technologies and Skills
 Features
-Contributing
-License
-Contact
+
 
 Key Technologies and Skills
 
@@ -65,4 +63,12 @@ Satisfaction Score Distribution: The average satisfaction score is 5 out of 10, 
 Department Referrals: General Practice and Orthopedics patients account for 30.75%, while other departments, including Physiotherapy and Cardiology, represent 10.64%. Notably, non-referred patients constitute a substantial 58.67% of total visitors.
 
 Admin Flag Distribution: 50.04% of visitors are fully registered patients, while 49.96% are either visitors or individuals not registered for treatment. This indicates a significant portion of the hospital's traffic consists of non-registered individuals.
+
+
+                                                              HEALTHCARE DATA ANALYSIS
+                  ![Healthcare_Dashboard_1](https://github.com/user-attachments/assets/8142bcb7-8398-47dc-be14-b1f2970fdad3)
+                  
+
+                                                               HEALTHCARE DATA ANALYSIS
+                 ![Healthcare_Dashboard_2](https://github.com/user-attachments/assets/265afac9-ace4-47e8-92c1-f288a7132db8)
 
